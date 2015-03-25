@@ -35,7 +35,8 @@
   "checkbox",
   "toggle",
   "radio",
-  "range",
+  // CIC: Commented out to prevent overrides on native video elements in iOS
+  //"range",
   "select",
   "progress",
 
